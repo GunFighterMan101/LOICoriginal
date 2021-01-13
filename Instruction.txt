@@ -1,0 +1,20 @@
+This is a Windows executable, please do not use on another OS
+Please note that during download or during use you might have to allow it on Windows Security/Windows Defender and any other antivirus program you might have
+
+Low Orbit Ion Cannon | When harpoons, air strikes, and nukes fails
+
+Attacking a website:
+Put in the website url address, click Lock on
+Put how many threads you want to attack with (Higher is better but at the cost of your CPU)
+Choose TCP as your method, add a message if you choose so
+Click IMMA CHARGIN MAH LAZER
+Click Stop at any time to well... stop
+
+Attacking a router:
+Get the router's IP, this can be done in many ways, click Lock on
+Put how many threads you want to attack with (Higher is better but at the cost of your CPU)
+Choose UDP as your method, add a message if you choose so
+Click IMMA CHARGIN MAH LAZER
+Click Stop at any time to well... stop
+
+Instruction V1.1
